@@ -1,0 +1,7 @@
+https://www.geeksforgeeks.org/heap-sort/
+https://www.geeksforgeeks.org/difference-between-min-heap-and-max-heap/
+https://sciencing.com/the-advantages-disadvantages-of-sorting-algorithms-12749529.html
+https://www.youtube.com/watch?v=MtQL_ll5KhQ&ab_channel=GeeksforGeeks
+https://sciencing.com/the-advantages-disadvantages-of-sorting-algorithms-12749529.html
+https://www.hackerearth.com/practice/algorithms/sorting/heap-sort/tutorial/
+https://pediaa.com/what-is-the-difference-between-directed-and-undirected-graph/#:~:text=A%20directed%20graph%20is%20a,between%20directed%20and%20undirected%20graph.
